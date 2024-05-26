@@ -1,0 +1,3 @@
+This is a Scss & a compiled Css framework to build a responsive website using only the flexbox model and media queries.
+
+To get started using the scss, run it in package.json file
